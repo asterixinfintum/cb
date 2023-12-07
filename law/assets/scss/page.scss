@@ -1,0 +1,47 @@
+@function scaleValue($value) {
+    @return calc(
+        #{$value} * (clamp(350px, 100vw, 3840px) / var(--ideal-viewport-width))
+    );
+}
+
+.page {
+    
+    &__body {
+        padding: #{scaleValue(130)} #{scaleValue(160)};
+    }
+
+    &__paras {
+        font-size: #{scaleValue(18)};
+        font-weight: 400;
+        line-height: #{scaleValue(35)};
+
+        @media only screen and (max-width: 414px) { 
+            font-size: #{scaleValue(70)};
+            line-height: #{scaleValue(130)};
+        }
+
+        & h4 {
+            margin: #{scaleValue(18)} 0;
+
+            @media only screen and (max-width: 414px) { 
+                font-size: #{scaleValue(90)};
+                line-height: #{scaleValue(130)};
+                margin: #{scaleValue(100)} 0;
+            }
+        }
+
+        & p {
+            margin-bottom: #{scaleValue(18)};
+
+            @media only screen and (max-width: 414px) { 
+                margin-bottom: #{scaleValue(80)};
+            }
+        }
+    }
+
+    &__mastless {
+        @media only screen and (max-width: 414px) { 
+            margin-top: #{scaleValue(180)};
+        }
+    }
+}

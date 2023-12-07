@@ -1,0 +1,36 @@
+:root {
+    --ideal-viewport-width: 1600;
+    --black: #000000;
+    --white: #fff;
+    --fontblack: #353535;
+    --maingold: #8b682c;
+    --whitegray: #bbbbbb;
+    --sectionbackground: #232323;
+    --cardbackground: #fafafa;
+}
+
+@function scaleValue($value) {
+    @return calc(
+      #{$value} * (clamp(350px, 100vw, 3840px) / var(--ideal-viewport-width))
+    );
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    overflow-x: hidden;
+    background: var(--white);
+    color: var(--fontblack);
+}
+
+html {
+    font-family: 'Montserrat', sans-serif;
+    font-size: #{scaleValue(15)};
+    overflow-x: hidden;
+    color: var(--fontblack);
+}

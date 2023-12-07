@@ -1,0 +1,32 @@
+@function scaleValue($value) {
+    @return calc(
+        #{$value} * (clamp(350px, 100vw, 3840px) / var(--ideal-viewport-width))
+    );
+}
+
+.capitalize {
+    text-transform: uppercase
+}
+
+.section-h3 {
+    font-size: #{scaleValue(40)};
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: #{scaleValue(30)};
+
+    @media only screen and (max-width: 414px) { 
+        font-size: #{scaleValue(120)};
+        line-height: #{scaleValue(140)};
+        margin-bottom: #{scaleValue(100)};
+    }
+}
+
+.section-sub {
+    font-size: #{scaleValue(19)};
+    line-height: #{scaleValue(25)};
+
+    @media only screen and (max-width: 414px) { 
+        font-size: #{scaleValue(75)};
+        line-height: #{scaleValue(140)};
+    }
+}

@@ -1,0 +1,55 @@
+@mixin logo {
+    &__logoarea {
+        display: flex;
+        align-items: center;
+        text-transform: uppercase;
+        cursor: pointer;
+
+        &--logo {
+            height: #{scaleValue(40)};
+            width: #{scaleValue(50)};
+            margin-right: #{scaleValue(10)};
+
+            transform: translateY(#{scaleValue(-2)});
+
+            @media only screen and (max-width: 414px) { 
+                height: #{scaleValue(120)};
+                width: #{scaleValue(150)};
+                margin-right: #{scaleValue(30)};
+            }
+
+            & img {
+                object-fit: cover;
+                height: 100%;
+                width: 100%;
+            }
+        }
+
+        &--text {
+            @include flexThree;
+            justify-content: center;
+
+            & p {
+
+                &:nth-child(1) {
+                    font-size: #{scaleValue(27)};
+                    font-weight: 600;
+                    color: var(--white);
+
+                    @media only screen and (max-width: 414px) { 
+                        font-size: #{scaleValue(90)};
+                    }
+                }
+
+                &:nth-child(2) {
+                    font-size: #{scaleValue(12)};
+                    color: var(--maingold);
+
+                    @media only screen and (max-width: 414px) { 
+                        font-size: #{scaleValue(50)};
+                    }
+                }
+            }
+        }
+    }
+}

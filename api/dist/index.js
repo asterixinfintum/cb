@@ -29,7 +29,7 @@ require("dotenv").config();
 var app = (0, _express["default"])();
 var allowlist = [
 /*'http://localhost:3000',*/
-'https://harfinlawfirm.com', 'https://www.harfinlawfirm.com'];
+'https://expertcyberlaw.com', 'https://www.expertcyberlaw.com'];
 
 var corsOptionsDelegate = function corsOptionsDelegate(req, callback) {
   var corsOptions;

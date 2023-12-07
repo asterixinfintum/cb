@@ -1,0 +1,29 @@
+{
+  "name": "lawver",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "apexcharts": "^3.35.3",
+    "browser-or-node": "^2.0.0",
+    "core-js": "^3.19.3",
+    "email-validator": "^2.0.4",
+    "nuxt": "^2.12.2",
+    "swiper": "6.8.1",
+    "vue": "^2.6.14",
+    "vue-apexcharts": "^1.6.2",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.45.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.2.1",
+    "node-sass": "^7.0.1",
+    "sass-loader": "^10.0.5"
+  }
+}
