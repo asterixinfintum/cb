@@ -43,6 +43,10 @@
                             <p>Casinoplatz 10, 3044 Bern,</p>
                             <p>Switzerland</p>
                         </span>
+                        <span class="footer__item--list">
+                            <p>394030, Воронежская область, г Воронеж, Плехановская ул, д. 24а, помещ. 2</p>
+                        </span>
+                        
                     </div>
                 </div>
             </div>

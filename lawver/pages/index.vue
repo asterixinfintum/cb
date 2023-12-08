@@ -37,6 +37,8 @@
         </div>
       </div>
 
+      <LawyersGrid />
+
       <OurExpertise />
       
       <Brands :label="'our partners'"/>

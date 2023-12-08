@@ -1,0 +1,163 @@
+[
+  {
+    "name": "billing",
+    "path": "/billing",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\billing.vue",
+    "chunkName": "pages/billing",
+    "_name": "_453d1fd4"
+  },
+  {
+    "name": "consultation",
+    "path": "/consultation",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\consultation.vue",
+    "chunkName": "pages/consultation",
+    "_name": "_5bb4bc04"
+  },
+  {
+    "name": "cookies",
+    "path": "/cookies",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\cookies.vue",
+    "chunkName": "pages/cookies",
+    "_name": "_7238662a"
+  },
+  {
+    "name": "cybercrime",
+    "path": "/cybercrime",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\cybercrime.vue",
+    "chunkName": "pages/cybercrime",
+    "_name": "_f0483224"
+  },
+  {
+    "name": "dataprotection",
+    "path": "/dataprotection",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\dataprotection.vue",
+    "chunkName": "pages/dataprotection",
+    "_name": "_2bbcc590"
+  },
+  {
+    "name": "efficientmethods",
+    "path": "/efficientmethods",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\efficientmethods.vue",
+    "chunkName": "pages/efficientmethods",
+    "_name": "_c19a8534"
+  },
+  {
+    "name": "expertise",
+    "path": "/expertise",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\expertise.vue",
+    "chunkName": "pages/expertise",
+    "_name": "_73727fec"
+  },
+  {
+    "name": "financialcrimes",
+    "path": "/financialcrimes",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\financialcrimes.vue",
+    "chunkName": "pages/financialcrimes",
+    "_name": "_dd81aab6"
+  },
+  {
+    "name": "fraud",
+    "path": "/fraud",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\fraud.vue",
+    "chunkName": "pages/fraud",
+    "_name": "_e76fbf82"
+  },
+  {
+    "name": "howwework",
+    "path": "/howwework",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\howwework.vue",
+    "chunkName": "pages/howwework",
+    "_name": "_2556960a"
+  },
+  {
+    "name": "iuytfghjkhgfhjkihugyftcvijohugygvhjkhguyfjihugjvchvjbgyfvcghjhgjbknbhkjvbd chbjhvcbvbjbhvcbvbvghjhrvjgvcbjcbvcgjbvbvghcbjvgcvghvgcvghvcghvgchvgchsgvhjb",
+    "path": "/iuytfghjkhgfhjkihugyftcvijohugygvhjkhguyfjihugjvchvjbgyfvcghjhgjbknbhkjvbd%20chbjhvcbvbjbhvcbvbvghjhrvjgvcbjcbvcgjbvbvghcbjvgcvghvgcvghvcghvgchvgchsgvhjb",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\iuytfghjkhgfhjkihugyftcvijohugygvhjkhguyfjihugjvchvjbgyfvcghjhgjbknbhkjvbd chbjhvcbvbjbhvcbvbvghjhrvjgvcbjcbvcgjbvbvghcbjvgcvghvgcvghvcghvgchvgchsgvhjb.vue",
+    "chunkName": "pages/iuytfghjkhgfhjkihugyftcvijohugygvhjkhguyfjihugjvchvjbgyfvcghjhgjbknbhkjvbd chbjhvcbvbjbhvcbvbvghjhrvjgvcbjcbvcgjbvbvghcbjvgcvghvgcvghvcghvgchvgchsgvhjb",
+    "_name": "_aeac8586"
+  },
+  {
+    "name": "missappropriation",
+    "path": "/missappropriation",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\missappropriation.vue",
+    "chunkName": "pages/missappropriation",
+    "_name": "_256672aa"
+  },
+  {
+    "name": "neglectofduty",
+    "path": "/neglectofduty",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\neglectofduty.vue",
+    "chunkName": "pages/neglectofduty",
+    "_name": "_61a8877c"
+  },
+  {
+    "name": "ourcompany",
+    "path": "/ourcompany",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\ourcompany.vue",
+    "chunkName": "pages/ourcompany",
+    "_name": "_2f30ae66"
+  },
+  {
+    "name": "ourmission",
+    "path": "/ourmission",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\ourmission.vue",
+    "chunkName": "pages/ourmission",
+    "_name": "_c01e5816"
+  },
+  {
+    "name": "ourteam",
+    "path": "/ourteam",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\ourteam.vue",
+    "chunkName": "pages/ourteam",
+    "_name": "_a0bf1b78"
+  },
+  {
+    "name": "privacy",
+    "path": "/privacy",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "_name": "_317d22a3"
+  },
+  {
+    "name": "recognition",
+    "path": "/recognition",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\recognition.vue",
+    "chunkName": "pages/recognition",
+    "_name": "_2fdc545c"
+  },
+  {
+    "name": "riskassessment",
+    "path": "/riskassessment",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\riskassessment.vue",
+    "chunkName": "pages/riskassessment",
+    "_name": "_470d99f4"
+  },
+  {
+    "name": "services",
+    "path": "/services",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\services.vue",
+    "chunkName": "pages/services",
+    "_name": "_3cc823d3"
+  },
+  {
+    "name": "terms",
+    "path": "/terms",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\terms.vue",
+    "chunkName": "pages/terms",
+    "_name": "_4fe5143c"
+  },
+  {
+    "name": "whoweare",
+    "path": "/whoweare",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\whoweare.vue",
+    "chunkName": "pages/whoweare",
+    "_name": "_44850b86"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\greg2\\\\Documents\\\\zks\\\\cyberlaw\\\\cyberlaw\\\\lawver\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2e0fb7ad"
+  }
+]
