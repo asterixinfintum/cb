@@ -9,9 +9,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Kaminsky Stanislav Viktorovich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Affiliate of the economic department - senior lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -20,9 +20,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Nikolay Vladimirovich Vorontsov
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -31,9 +31,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Martynova Christina Viktorovna
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -42,9 +42,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Arkhipov Alexander Vladimirovich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
         </div>
 
@@ -55,9 +55,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Yakovlev Vasiliy Yuryevich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -66,9 +66,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Artem Nikolaevich Arbatov
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -77,9 +77,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Pobedov Alexey Yurievich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Affiliate of the economic department</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -88,9 +88,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Vladislav Vitalievich Belov
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
         </div>
 
@@ -101,9 +101,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Petrakov Dmitry Anatolievich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -112,9 +112,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Ganin Andrey Sergeevich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -134,9 +134,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Gavrilov Akim Rustamovich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
         </div>
 
@@ -148,9 +148,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Orlova Angela Alexandrovna
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -159,9 +159,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Novikov Oleg Victorovich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -170,9 +170,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Malinovskaya Victoria Alexandrovna
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -181,9 +181,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Fadeev Dmitry Sergeevich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
         </div>
 
@@ -194,9 +194,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Mikhail Andreyevich Dubrovsky
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -205,9 +205,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Vinokurov Gennady Alexandrovich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -216,9 +216,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Gorsky Yaroslav Vladimirovich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -227,9 +227,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Huseynov David  Ibrahimovich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
         </div>
 
@@ -240,9 +240,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Artem Valeryevich Titov
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Affiliate of the economic department - senior lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -251,9 +251,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Antipov Artem Ivanovich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -262,9 +262,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Gromov Vladislav Vladimirovich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -273,9 +273,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Kulikova Daria Alekseevna
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Junior Associate</div>
           </div>
         </div>
 
@@ -286,9 +286,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Timofeeva Alexandra Anatolevna
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Junior Associate</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -297,9 +297,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Matveeva Alexandra Andreevna
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Junior Associate</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -308,9 +308,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Evgeny Vladimirovich Mikheev
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">

@@ -38,16 +38,21 @@
                         </span>
                     </div>-->
                     <div class="footer__item">
-                        <h5 class="footer__item--h5">our location</h5>
-                        <span class="footer__item--list">
-                            <p>Casinoplatz 10, 3044 Bern,</p>
-                            <p>Switzerland</p>
-                        </span>
-                        <span class="footer__item--list">
-                            <p>394030, Воронежская область, г Воронеж, Плехановская ул, д. 24а, помещ. 2</p>
-                        </span>
-                        
+                        <h5 class="footer__item--h5">our locations</h5>
+                        <ul>
+                            <li class="footer__item--list">
+                                <p>Casinoplatz 10, 3044 Bern,</p>
+                                <p>Switzerland</p>
+                            </li>
+                            <li class="footer__item--list">
+                                <p>394030, Voronezh Oblast, Voronezh, Plekhanovskaya Street, bldg. 24a, unit 2</p>
+                            </li> 
+                            <li class="footer__item--list">
+                                <p>Ogrodowa 58, 00-876 Warszawa, Poland</p>
+                            </li>
+                        </ul> 
                     </div>
+        
                 </div>
             </div>
             <div class="footer__bottom">
