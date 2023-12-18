@@ -123,9 +123,9 @@
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Каминский Станислав Викторович
+              Osinov Adil Alexandrovich
             </div>
-            <div class="lawyersgrid__employee--section2">Каминский Станислав</div>
+            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
