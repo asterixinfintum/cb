@@ -79,7 +79,7 @@
             <div class="lawyersgrid__employee--section1">
               Pobedov Alexey Yurievich
             </div>
-            <div class="lawyersgrid__employee--section2">Affiliate of the economic department</div>
+            <div class="lawyersgrid__employee--section2">Affiliate of the economic department - senior lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
