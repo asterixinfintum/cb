@@ -16,11 +16,11 @@
 
           <div class="lawyersgrid__employee">
             <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/IMG_35BF030F4045-6.jpeg" />
+              <img src="@/assets/imgs/employees/photo1707923031.jpeg" />
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Nikolay Vladimirovich Vorontsov
+              Roganov Pavel Anatolievich
             </div>
             <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
