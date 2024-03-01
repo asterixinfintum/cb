@@ -314,10 +314,75 @@
           </div>
 
           <div class="lawyersgrid__employee">
-            
+            <figure class="lawyersgrid__img">
+              <img src="@/assets/imgs/employees/photo1709134808 (1).jpeg" />
+            </figure>
+
+            <div class="lawyersgrid__employee--section1">
+              Беляева Кира Павловна
+            </div>
+            <div class="lawyersgrid__employee--section2">Lawyer</div>
           </div>
         </div>
 
+        <div class="lawyersgrid__employees">
+          <div class="lawyersgrid__employee">
+            <figure class="lawyersgrid__img">
+              <img src="@/assets/imgs/employees/photo1709134808.jpeg" />
+            </figure>
+
+            <div class="lawyersgrid__employee--section1">
+              Исаев Владимир Викторович
+            </div>
+            <div class="lawyersgrid__employee--section2">Lawyer</div>
+          </div>
+
+          <div class="lawyersgrid__employee">
+            <figure class="lawyersgrid__img">
+              <img src="@/assets/imgs/employees/photo1709134808 (2).jpeg" />
+            </figure>
+
+            <div class="lawyersgrid__employee--section1">
+              Михеев Максим Юрьевич
+            </div>
+            <div class="lawyersgrid__employee--section2">Lawyer</div>
+          </div>
+
+          <div class="lawyersgrid__employee">
+            <figure class="lawyersgrid__img">
+              <img src="@/assets/imgs/employees/photo1709134808 (3).jpeg" />
+            </figure>
+
+            <div class="lawyersgrid__employee--section1">
+              Островский Руслан Юрьевич
+            </div>
+            <div class="lawyersgrid__employee--section2">Lawyer</div>
+          </div>
+
+          <div class="lawyersgrid__employee">
+            <figure class="lawyersgrid__img">
+              <img src="@/assets/imgs/employees/photo1709134808 (4).jpeg" />
+            </figure>
+
+            <div class="lawyersgrid__employee--section1">
+              Фридман Александр Виктрович
+            </div>
+            <div class="lawyersgrid__employee--section2">Lawyer</div>
+          </div>
+        </div>
+
+        <div class="lawyersgrid__employees">
+          <div class="lawyersgrid__employee">
+            <figure class="lawyersgrid__img">
+              <img src="@/assets/imgs/employees/photo1709134808 (5).jpeg" />
+            </figure>
+
+            <div class="lawyersgrid__employee--section1">
+              Амина Корниенко Адиловно
+            </div>
+            <div class="lawyersgrid__employee--section2">Lawyer</div>
+          </div>
+        </div>
 
       </div>
     </div>
