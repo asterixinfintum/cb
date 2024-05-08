@@ -16,11 +16,11 @@
 
           <div class="lawyersgrid__employee">
             <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/photo1707923031.jpeg" />
+              <img src="@/assets/imgs/employees/photo1715078176.jpeg" />
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Roganov Pavel Anatolievich
+              Lucas Nill
             </div>
             <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
@@ -84,11 +84,11 @@
 
           <div class="lawyersgrid__employee">
             <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/IMG_35BF030F4045-8.jpeg" />
+              <img src="@/assets/imgs/employees/photo1715078219.jpeg" />
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Vladislav Vitalievich Belov
+              Maksim Aleksandrovich Fedotov
             </div>
             <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
@@ -108,33 +108,33 @@
 
           <div class="lawyersgrid__employee">
             <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/IMG_35BF030F4045-10.jpeg" />
+              <img src="@/assets/imgs/employees/photo1715078265.jpeg" />
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Ganin Andrey Sergeevich
+              Mark Milek
             </div>
             <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
             <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/IMG_35BF030F4045-11.jpeg" />
+              <img src="@/assets/imgs/employees/photo1715078290.jpeg" />
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Osinov Adil Alexandrovich
+              Alexander Alekseevich Menshikov
             </div>
             <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
             <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/IMG_35BF030F4045-12.jpeg" />
+              <img src="@/assets/imgs/employees/photo1715078317.jpeg" />
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Gavrilov Akim Rustamovich
+              Aleksey Vladislavovich Vlasov
             </div>
             <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
@@ -201,11 +201,11 @@
 
           <div class="lawyersgrid__employee">
             <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/IMG_35BF030F4045-18.jpeg" />
+              <img src="@/assets/imgs/employees/photo1715078374.jpeg" />
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Vinokurov Gennady Alexandrovich
+              Serebrov Nazar Anatolyevich
             </div>
             <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
           </div>
@@ -236,13 +236,13 @@
         <div class="lawyersgrid__employees">
           <div class="lawyersgrid__employee">
             <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/IMG_35BF030F4045-21.jpeg" />
+              <img src="@/assets/imgs/employees/photo1715078408.jpeg" />
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Artem Valeryevich Titov
+              Polyakov Alexander Bronislavovich
             </div>
-            <div class="lawyersgrid__employee--section2">Affiliate of the economic department - senior lawyer</div>
+            <div class="lawyersgrid__employee--section2">Senior lawyer</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -258,13 +258,13 @@
 
           <div class="lawyersgrid__employee">
             <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/IMG_35BF030F4045-23.jpeg" />
+              <img src="@/assets/imgs/employees/photo1715083942.jpeg" />
             </figure>
 
             <div class="lawyersgrid__employee--section1">
-              Gromov Vladislav Vladimirovich
+              Lyutaeva Anna Vladimirovna
             </div>
-            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
+            <div class="lawyersgrid__employee--section2">Junior Associate</div>
           </div>
 
           <div class="lawyersgrid__employee">
@@ -280,16 +280,6 @@
         </div>
 
         <div class="lawyersgrid__employees">
-          <div class="lawyersgrid__employee">
-            <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/IMG_35BF030F4045-25.jpeg" />
-            </figure>
-
-            <div class="lawyersgrid__employee--section1">
-              Timofeeva Alexandra Anatolevna
-            </div>
-            <div class="lawyersgrid__employee--section2">Junior Associate</div>
-          </div>
 
           <div class="lawyersgrid__employee">
             <figure class="lawyersgrid__img">
@@ -304,46 +294,11 @@
 
           <div class="lawyersgrid__employee">
             <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/IMG_35BF030F4045-27.jpeg" />
-            </figure>
-
-            <div class="lawyersgrid__employee--section1">
-              Evgeny Vladimirovich Mikheev
-            </div>
-            <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
-          </div>
-
-          <div class="lawyersgrid__employee">
-            <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/photo1709134808 (1).jpeg" />
-            </figure>
-
-            <div class="lawyersgrid__employee--section1">
-              Беляева Кира Павловна
-            </div>
-            <div class="lawyersgrid__employee--section2">Lawyer</div>
-          </div>
-        </div>
-
-        <div class="lawyersgrid__employees">
-          <div class="lawyersgrid__employee">
-            <figure class="lawyersgrid__img">
               <img src="@/assets/imgs/employees/photo1709134808.jpeg" />
             </figure>
 
             <div class="lawyersgrid__employee--section1">
               Исаев Владимир Викторович
-            </div>
-            <div class="lawyersgrid__employee--section2">Lawyer</div>
-          </div>
-
-          <div class="lawyersgrid__employee">
-            <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/photo1709134808 (2).jpeg" />
-            </figure>
-
-            <div class="lawyersgrid__employee--section1">
-              Михеев Максим Юрьевич
             </div>
             <div class="lawyersgrid__employee--section2">Lawyer</div>
           </div>
@@ -366,19 +321,6 @@
 
             <div class="lawyersgrid__employee--section1">
               Фридман Александр Виктрович
-            </div>
-            <div class="lawyersgrid__employee--section2">Lawyer</div>
-          </div>
-        </div>
-
-        <div class="lawyersgrid__employees">
-          <div class="lawyersgrid__employee">
-            <figure class="lawyersgrid__img">
-              <img src="@/assets/imgs/employees/photo1709134808 (5).jpeg" />
-            </figure>
-
-            <div class="lawyersgrid__employee--section1">
-              Амина Корниенко Адиловно
             </div>
             <div class="lawyersgrid__employee--section2">Lawyer</div>
           </div>
