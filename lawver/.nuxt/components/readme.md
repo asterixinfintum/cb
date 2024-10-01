@@ -10,6 +10,7 @@ You can directly use them in pages and other components without the need to impo
 - `<Contact>` | `<contact>` (components/Contact.vue)
 - `<Footer>` | `<footer>` (components/Footer.vue)
 - `<Header>` | `<header>` (components/Header.vue)
+- `<HLawyersGrid>` | `<h-lawyers-grid>` (components/HLawyersGrid.vue)
 - `<Jumbotron>` | `<jumbotron>` (components/Jumbotron.vue)
 - `<LawyersGrid>` | `<lawyers-grid>` (components/LawyersGrid.vue)
 - `<Mast>` | `<mast>` (components/Mast.vue)

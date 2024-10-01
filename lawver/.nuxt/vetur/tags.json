@@ -11,6 +11,9 @@
   "Header": {
     "description": "Auto imported from components/Header.vue"
   },
+  "HLawyersGrid": {
+    "description": "Auto imported from components/HLawyersGrid.vue"
+  },
   "Jumbotron": {
     "description": "Auto imported from components/Jumbotron.vue"
   },

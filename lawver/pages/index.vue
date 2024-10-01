@@ -37,7 +37,7 @@
         </div>
       </div>
 
-      <LawyersGrid />
+      <HLawyersGrid />
 
       <OurExpertise />
       
