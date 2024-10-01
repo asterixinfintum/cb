@@ -73,7 +73,7 @@
                     <span class="footer__links--link" @click="$router.push(`/privacy`)">Privacy policy |</span>
                     <span class="footer__links--link" @click="$router.push(`/cookies`)">Cookie policy</span>
                 </div>
-                <h4>Copyright © 2003 Harfinlaw Firm | All rights reserved.</h4>
+                <h4>Copyright © 2024 Harfinlaw Firm | All rights reserved.</h4>
             </div>
         </div>
     </div>
