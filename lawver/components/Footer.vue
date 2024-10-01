@@ -18,7 +18,7 @@
                         <img src="@/assets/imgs/logo.png"/>
                     </figure>
                     <div class="footer__logoarea--text">
-                        <p>ECL firm</p>
+                        <p>Harfinlaw Firm</p>
                         <p>refund consult law firm</p>
                     </div>
                 </div>
@@ -31,13 +31,25 @@
                             <p>+41 4458 63632</p>
                         </span>
                     </div>-->
-                    <!--<div class="footer__item">
+                    <div class="footer__item">
                         <h5 class="footer__item--h5">email address</h5>
                         <span class="footer__item--list">
                             <p>support@harfinlawfirm.com</p>
                         </span>
-                    </div>-->
+                    </div>
                     <div class="footer__item">
+                        <h5 class="footer__item--h5">our locations</h5>
+                        <ul>
+                            <li class="footer__item--list">
+                                <p>Eleftheriou Venizelou Avenue 51,</p>
+                                <p>Paphos</p>
+                            </li>
+                            <li class="footer__item--list">
+                                <p>Cyprus</p>
+                            </li>
+                        </ul> 
+                    </div>
+                   <!-- <div class="footer__item">
                         <h5 class="footer__item--h5">our locations</h5>
                         <ul>
                             <li class="footer__item--list">
@@ -51,7 +63,7 @@
                                 <p>Ogrodowa 58, 00-876 Warszawa, Poland</p>
                             </li>
                         </ul> 
-                    </div>
+                    </div>-->
         
                 </div>
             </div>

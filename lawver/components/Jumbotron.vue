@@ -6,7 +6,7 @@
             <p>Welcome to</p>
         </section>
         <section class="jumbotron__body--h1 text-margin">
-            <h1>Harfinlaw consult law firm</h1>
+            <h1>HarfinLaw Consult Firm</h1>
         </section>
         <section class="jumbotron__body--sub text-margin">
             <p>Honest treatment, Clear advice, Smart strategy Since 2004 - Present</p>
