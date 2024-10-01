@@ -64,13 +64,13 @@ export default {
                     id: 0,
                     initial: 'one',
                     name: 'Penny',
-                    review: 'Friendly and efficient team at this Expert CyberLaw Firm'
+                    review: 'Friendly and efficient team at this Harfinlaw Firm'
                 },
                 {
                     id: 1,
                     initial: 'two',
                     name: 'Patinetteke Huart',
-                    review: "My biggest thanks to Expert CyberLaw Firm. They're just so kind, polite, intelligent, very calm... I got more than half my money, sure to get back the rest of my funds"
+                    review: "My biggest thanks to Harfinlaw Firm. They're just so kind, polite, intelligent, very calm... I got more than half my money, sure to get back the rest of my funds"
                 },
                 {
                     id: 2,
@@ -88,7 +88,7 @@ export default {
                     id: 4,
                     initial: 'five',
                     name: 'Malcolm Maclean',
-                    review: "Expert CyberLaw Firm was great to deal with. They were frank and helpful and followed up immediately."
+                    review: "Harfinlaw Firm was great to deal with. They were frank and helpful and followed up immediately."
                 }
             ]
         }

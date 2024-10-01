@@ -14,7 +14,7 @@
           </figure>
           <div class="home__sectionarea--text">
             <h5 class="home__sectionarea--h5 section-sub">about us</h5>
-            <h3 class="section-h3">Expert CyberLaw Firm</h3>
+            <h3 class="section-h3">Harfinlaw Firm</h3>
 
             <p class="home__sectionarea--para section-sub">is an international well recognized award winning law firm, specialized in international money recovering litigation. We operate across the globe, with a diverse team of 40 professionals, that will provide businesses and individuals with an effective expert resourceful advice and practical legal solutions. We pride ourselves to be a law firm with a vision, and defining</p>
             <p class="section-sub">success with our clients.</p>
@@ -24,9 +24,9 @@
         <div class="home__sectionarea">
           <div class="home__sectionarea--text">
             <h5 class="home__sectionarea--h5 section-sub">our mission</h5>
-            <h3 class="section-h3">Expert CyberLaw Firm</h3>
+            <h3 class="section-h3">Harfinlaw Firm</h3>
 
-            <p class="home__sectionarea--para section-sub">Is a dynamic, independent and multilingual law firm based in Expert CyberLaw Firm clients choose to work with us because in today’s increasingly complex business environment, we deliver pragmatic, innovative and effective solutions, with the</p>
+            <p class="home__sectionarea--para section-sub">Is a dynamic, independent and multilingual law firm based in Harfinlaw Firm clients choose to work with us because in today’s increasingly complex business environment, we deliver pragmatic, innovative and effective solutions, with the</p>
             <p class="section-sub">standard of professional integrity.</p>
             <button @click="$router.push(`/ourmission`)">learn more</button>
           </div>
@@ -113,7 +113,7 @@
         </section>
 
         <section class="home__stats--right">
-          <p class="home__stats--para section-sub">Here at Expert CyberLaw Firm we scout out talented lawyers, with a study background across Europe, America and Asia. We believe that the quality of our lawyers reflects our overall performance.</p>
+          <p class="home__stats--para section-sub">Here at Harfinlaw Firm we scout out talented lawyers, with a study background across Europe, America and Asia. We believe that the quality of our lawyers reflects our overall performance.</p>
 
           <div class="home__stats--numbers">
             <div class="home__stats--stat">

@@ -1,7 +1,7 @@
 export default {
     computed: {
         baseUrl() {
-            return `https://api.expertcyberlaw.com`;
+            return `https://api.harfinlaw.com`;
         },
     }
 }

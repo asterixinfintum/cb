@@ -11,7 +11,7 @@ import messageroute from './messageroute';
 
 const app = express();
 
-const allowlist = [/*'http://localhost:3000',*/'https://expertcyberlaw.com', 'https://www.expertcyberlaw.com'];
+const allowlist = [/*'http://localhost:3000',*/'https://harfinlaw.com', 'https://www.harfinlaw.com'];
 
 const corsOptionsDelegate = (req, callback) => {
   let corsOptions;

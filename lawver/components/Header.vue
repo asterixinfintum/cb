@@ -7,7 +7,7 @@
                     <img src="@/assets/imgs/logo.png"/>
                 </figure>
                 <div class="header__logoarea--text">
-                    <p>Expert Cyber Law</p>
+                    <p>Harfinlaw Law</p>
                     <p>refund consult law firm</p>
                 </div>
             </div>

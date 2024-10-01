@@ -40,7 +40,8 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    "@nuxtjs/style-resources"
+    "@nuxtjs/style-resources",
+    "@nuxtjs/sitemap"
   ],
   styleResources: {
     scss: [
@@ -57,5 +58,10 @@ export default {
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {}
+  build: {},
+  sitemap: {
+    hostname: 'https://example.com',
+    gzip: true,
+    exclude: ['/iuytfghjkhgfhjkihugyftcvijohugygvhjkhguyfjihugjvchvjbgyfvcghjhgjbknbhkjvbd chbjhvcbvbjbhvcbvbvghjhrvjgvcbjcbvcgjbvbvghcbjvgcvghvgcvghvcghvgchvgchsgvhjb/**'],
+  },
 }
