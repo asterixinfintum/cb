@@ -3,7 +3,7 @@
     <div class="home">
       <Jumbotron />
 
-      <VideoCustom />
+      <!--<VideoCustom />-->
 
       <Contact />
       
