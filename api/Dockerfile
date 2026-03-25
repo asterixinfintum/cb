@@ -7,5 +7,6 @@ RUN npm install
 COPY . .
 ENV PORT 8001
 
+
 EXPOSE $PORT
 CMD [ "node", "dist/index.js" ]

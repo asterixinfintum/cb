@@ -247,13 +247,13 @@
   
             <div class="lawyersgrid__employee">
               <figure class="lawyersgrid__img">
-                <img src="@/assets/imgs/employees/IMG_35BF030F4045-22.jpeg" />
+                <img src="@/assets/imgs/employees/photo_2026-03-25_14-15-57.jpg" />
               </figure>
   
               <div class="lawyersgrid__employee--section1">
-                Stavros Demetriou
+                Daimon Hills
               </div>
-              <div class="lawyersgrid__employee--section2">Senior Lawyer</div>
+              <div class="lawyersgrid__employee--section2">Associate Finance Lawyer</div>
             </div>
   
             <div class="lawyersgrid__employee">
